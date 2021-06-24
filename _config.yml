@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 苗人可的学习记录
+title: 苗
 email: hemiao.mhe@foxmail.com
 author: mhe
 copyright: Copyright © 2021-now
